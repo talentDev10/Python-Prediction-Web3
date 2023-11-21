@@ -1,0 +1,10 @@
+{
+  "provider_bsc" : "http://172.16.20.15:8545",
+  "address": "0x0B3927F7Cd2aA0fB6f8a9F5E01324F9269a7a39e",
+  "private_key": "0x8701f986e76719e79700cf9adbc69e518495feb7b79ab8ee9452864b17820a85",
+  "target_address": "0x3c7a328f62493b6038dcb381f9766ed0500532b0",
+  "event_time": 10,
+  "gas_limit": 300000,
+  "bet_amount": 0.02
+}
+
